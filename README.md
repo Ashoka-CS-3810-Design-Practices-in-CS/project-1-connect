@@ -10,4 +10,7 @@ cd frontend && npm install && npm run build && cd ..
 cd backend && .venv/bin/uvicorn api:app
 ```
 
+
+demo - https://drive.google.com/file/d/1ojhMAXkNqHNHhltCYj0dltHR1S9SPV6r/view?usp=sharing
+
 Open http://localhost:8000.
